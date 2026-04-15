@@ -1,0 +1,271 @@
+footer
+{
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    margin: 0;
+    font-size: 14px;
+}
+body
+{
+    font-family: Arial, sans-serif;
+    main
+    {
+        section
+        {
+            display: flex;
+            flex-direction: column;
+            .b
+            {
+                text-align: center;
+                background-color: #333;
+                color: #fff;
+                margin: 0px;
+
+                h1
+                {
+                    font-size: 36px;
+                    margin-bottom: 10px;
+                }
+                p
+                {
+                    font-size: 18px;
+                    color: #d6d6d6;
+                }
+            }
+            .ba
+            {
+                margin-top: 20px;
+                a
+                {
+                    text-decoration: none;
+                    color: #333;
+                    margin: 0 10px;
+                    font-size: 18px;
+                }
+                a:hover
+                {
+                    color: #aaa;
+                }
+
+            }
+            .c
+            {
+                margin-top: 50px;
+                form
+                {
+                    display: flex;
+                    flex-direction: column;
+                    width: 300px;
+                    input, textarea
+                    {
+                        margin-bottom: 15px;
+                        padding: 10px;
+                        font-size: 16px;
+                        border: 1px solid #ccc;
+                        border-radius: 4px;
+                    }
+                    input[type="submit"]
+                    {
+                        background-color: #333;
+                        color: #fff;
+                        border: none;
+                        cursor: pointer;
+                    }
+                    input[type="submit"]:hover
+                    {
+                        background-color: #555;
+                    }
+                    input[type="reset"]
+                    {
+                        background-color: #ccc;
+                        color: #333;
+                        border: none;
+                        cursor: pointer;
+                    }
+                    input[type="reset"]:hover
+                    {
+                        background-color: #aaa;
+                    }
+                }
+            }
+            .d
+            {
+                margin-top: 50px;
+                form
+                {
+                    display: flex;
+                    flex-direction: column;
+                    width: 300px;
+                    input, textarea
+                    {
+                        margin-bottom: 15px;
+                        padding: 10px;
+                        font-size: 16px;
+                        border: 1px solid #ccc;
+                        border-radius: 4px;
+                    }
+                    input[type="submit"]
+                    {
+                        background-color: #333;
+                        color: #fff;
+                        border: none;
+                        cursor: pointer;
+                    }
+                    input[type="submit"]:hover
+                    {
+                        background-color: #555;
+                    }
+                    input[type="reset"]
+                    {
+                        background-color: #ccc;
+                        color: #333;
+                        border: none;
+                        cursor: pointer;
+                    }
+                    input[type="reset"]:hover
+                    {
+                        background-color: #aaa;
+                    }
+                }
+            }
+            .e
+            {
+                margin-top: 50px;
+                table
+                {
+                    border-collapse: collapse;
+                    width: 80%;
+                    th, td
+                    {
+                        border: 1px solid #ddd;
+                        padding: 8px;
+                        text-align: left;
+                    }
+                    th
+                    {
+                        background-color: #f2f2f2;
+                    }
+                }
+            }
+            .fa
+            {
+                text-align: center;
+                margin-top: 50px;
+                h2
+                {
+                    font-size: 28px;
+                    margin-bottom: 10px;
+                }
+                p
+                {
+                    font-size: 16px;
+                    color: #666;
+                }
+            }
+            .fb
+            {
+                margin-top: 20px;
+                img
+                {
+                    max-width: 100%;
+                    height: auto;
+                    border-radius: 50px; 
+                }
+            }
+            .fc
+            {
+                text-align: center;
+                margin-top: 20px;
+                h3
+                {
+                    font-size: 24px;
+                    margin-bottom: 10px;
+                }
+                p
+                {
+                    font-size: 16px;
+                    color: #666;
+                }
+            }
+            .ga
+            {
+                text-align: center;
+                margin-top: 50px;
+                h2
+                {
+                    font-size: 28px;
+                    margin-bottom: 10px;
+                }
+                p
+                {
+                    font-size: 16px;
+                    color: #666;
+                }
+            }
+            .gb
+            {
+                margin-top: 20px;
+                img
+                {
+                    max-width: 100%;
+                    height: auto;
+                }
+            }
+            .gc
+            {
+                text-align: center;
+                margin-top: 20px;
+                h3
+                {
+                    font-size: 24px;
+                    margin-bottom: 10px;
+                }
+                p
+                {
+                    font-size: 16px;
+                    color: #666;
+                }
+            }
+            .ha
+            {
+                text-align: center;
+                margin-top: 50px;
+                h2
+                {
+                    font-size: 28px;
+                    margin-bottom: 10px;
+                }
+                p
+                {
+                    font-size: 16px;
+                    color: #666;
+                }
+            }
+            .hb
+            {
+                margin-top: 20px;
+                img
+                {
+                    max-width: 100%;
+                    height: auto;
+                }
+            }
+            .hc
+            {
+                text-align: center;
+                margin-top: 20px;
+                h3
+                {
+                    font-size: 24px;
+                    margin-bottom: 10px;
+                }
+                p
+                {
+                    font-size: 16px;
+                    color: #666;
+                }
+            }
+        }
+    }
+}
